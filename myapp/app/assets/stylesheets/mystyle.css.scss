@@ -1,0 +1,42 @@
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.checkbox input[type="checkbox"] {
+  margin-left: 0px;
+}
+
+.nav-avatar img{
+	  width: 30px;
+	  height: auto;
+	  padding: 0px;
+	  margin: -15px 0px;
+	  border-radius: 60px;
+}
+.navbar-brand img{
+	width: 35px;
+	height: auto;
+	padding: 0px;
+	margin: -7px 0px;
+	vertical-align: none;
+}
+
+body { 
+	padding-top: 70px; 
+}
+
+.pin-avatar img{
+	
+	border-radius: 60px;
+}
+.pin-avatar{
+	width: 30px;
+	float:left;
+  	margin: 5px 15px 0px 0px;
+}
+.pin-username {
+  font-size: 11pt;
+  margin-top: 10px;
+  color: #cd200e;
+  font-weight: 600;
+}
